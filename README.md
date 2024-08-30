@@ -1,4 +1,4 @@
-Demographic statistics of Republika Srpska, 2023.
+Demographic statistics of Republika Srpska, 2023
 
 Demographic statistics by city/municipality of Republika Srpska, 2023
 
