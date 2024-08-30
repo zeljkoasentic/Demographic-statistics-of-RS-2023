@@ -4,4 +4,4 @@ Population and socio-economic data by city/municipality of Republika Srpska, 202
 
 Source of data: Republika Srpska Institute of Statistics
 
-Made by Zeljko Asaentic
+Made by Zeljko Asentic
